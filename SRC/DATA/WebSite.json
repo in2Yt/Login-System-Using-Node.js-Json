@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "activated": true,
+      "token": "bHN3Ys7MoMYFdO7CpscJrI3hESgq1r9MdKFYZlSQcAysamZqBZn8LqxHcF1OOlx3kg24PH9b9OjVJxDV75XqdsubQHFu4HuUP3snSbrI2U0ccpQpok8mBoy4LZA7YSAZyrm8qmrApBjwNIXHTg3pgd7QT8fK7H96SF1n7NcTfxvk7o4HgeFjGn1cjwt8Ej15tKQatGyVxniIWvDk6URLTpwPbPsyTdXytaHW00hVldZP7CTq8H6Z2x4n7q0xFs4FCOf92tXow0kon5NRTmiemOCudcgMvlQ6Vonrd2rORVyj",
+      "name": "NoonServ",
+      "username": "noonserv",
+      "email": "info@noonserv.com",
+      "password": "$2b$10$MLP0QNK8vJOEHgjOw7cy5OhVnQVXa4k/apZfY3E7cppFL5VOtFfpC",
+      "createAt": {
+        "hours": 13,
+        "minutes": 22,
+        "seconds": 27,
+        "day": 29,
+        "month": "March",
+        "year": 2024
+      },
+      "$id": "8798a8fc-b81d-4e80-905f-1ee95f139563",
+      "$createdAt": "2024-03-29T11:22:27.034Z",
+      "$updatedAt": "2024-04-13T09:13:26.810Z"
+    }
+  ],
+  "activation": [],
+  "password_reset": [
+    {
+      "email": "info@noonserv.com",
+      "token_url": "kNZqA9YRs4XTSA73zTCNqHbaVEDZpXvYVcieEtT7M0316qrIMfx7HAsjL4bDM4FCx94ESEHoedCEBVfy2JL10JwybKxxjhgBUyP2",
+      "$id": "3998dca6-9d18-4976-8d9a-fddc0bcf625d",
+      "$createdAt": "2024-04-13T15:44:56.383Z"
+    }
+  ]
+}

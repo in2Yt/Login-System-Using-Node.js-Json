@@ -1,0 +1,26 @@
+{
+    "express": {
+        "url": "localhost:3000",
+        "port": 3000,
+        "secret": "alwge8BGpGxrVdc57bHmpbR1Na99N8zq"
+    },
+    "WebSite": {
+        "name": "NoonServ",
+        "descripton": "NoonServ Is A Robust Hosting Platform That offers Comprehensive Solutions For Individuals And Businesses Seeking Reliable And Efficient Web Hosting Services. As A Leading Player In The Hosting Industry, NoonServ Stands out For Its Commitment To Providing A Seamless And User-Friendly Experience For Clients Looking To Establish And Maintain An Online Presence.",
+        "icon": "s",
+        "image": "s",
+        "WebMail": {
+            "host": "mail.noonserv.com",
+            "email": "mail@noonserv.com",
+            "port": 587,
+            "secure": false,
+            "auth": {
+                "username": "mail@noonserv.com",
+                "password": "uFWtH9ddpb5XkpycTwkD"
+            },
+            "Send": {
+                "Form": "NoonServ(Dont Send!) <mail@noonserv.com>"
+            }
+        }
+    }
+}
