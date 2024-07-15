@@ -28,13 +28,13 @@ Open "SRC/DATA/config.json" and add the required application data
 
 ## Support
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/480191229250764802)](https://discord.com/users/480191229250764802)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1229109763950907456)](https://discord.com/users/1229109763950907456)
 
 <div>
   <a href="https://youtube.com/@iN2_YT" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="YouTube"  />
   </a>
-  <a href="https://discord.gg/3FJu8YVsTw" target="_blank">
+  <a href="https://discord.gg/ABa2pKT6vT" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord"  />
   </a>
 </div>
